@@ -1,0 +1,4 @@
+openai
+opencv-python-headless
+numpy
+scipy
