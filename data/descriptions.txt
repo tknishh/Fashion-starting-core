@@ -1,123 +1,30 @@
-1. Name: "Golden Mocha Floret Lace"
-
-Overview: This exquisite lace trim features a symmetrical pattern of floral motifs in a rich golden mocha tone, intricately detailed with fine thread work that gives a textured appearance. The design combines elegance and traditional craftsmanship, making it perfect for enhancing formal wear, decorative home textiles, and bespoke fashion accessories.
-
-2.Name: "Bronze Spiral Twine Lace"
-
-Overview: This lace features a unique and eye-catching spiral twine design in a shimmering bronze color, offering a blend of classic and contemporary aesthetics. Its slender, continuous pattern makes it versatile for use in various sewing projects, from creating elegant edging on garments to adding a refined touch to home décor items. The metallic finish enhances its appeal, making it a popular choice for festive and special occasion wear.
-
-3.
-Name: "Vibrant Magenta Blossom Lace"
-
-Overview: This vibrant magenta lace features bold floral motifs that are strikingly defined with intricate threadwork. Its lush, saturated color and dimensional texture make it perfect for adding a pop of color and feminine flair to apparel and accessories. Ideal for creating statement trim on dresses, skirts, or even home décor, this lace exudes a playful yet elegant charm.
-
-4. Name: "Emerald and Gold Floral Ribbon Lace"
-
-Overview: This striking lace features a vibrant emerald green ribbon adorned with golden floral appliqués that shimmer under the light. The delicate metallic flowers add a luxurious touch, making this lace ideal for festive occasions and holiday crafts. Its slim profile and bright colors are perfect for adding an elegant finish to fashion accessories, gift wrappings, or decorative accents in interior design.
-
-5. Name: "Crimson Elegance Circle Trim Lace"
-
-Overview: This refined lace trim showcases a row of ornate circular motifs outlined in gold thread on a vibrant crimson background. Each circle is delicately detailed with intricate patterns, adding a touch of luxury and sophistication. This lace is perfect for enhancing evening wear, creating festive decorations, or adding an elegant accent to accessories and home décor projects.
-
-6. Name: "Royal Purple Gilded Trim Lace"
-
-Overview: This elegant lace features a rich royal purple background adorned with a continuous line of golden gilded circular motifs. The intricate detailing and vivid color contrast make it ideal for adding a regal touch to clothing, accessories, and craft projects. Its slender and uniform pattern provides a sophisticated and luxurious appeal, perfect for enhancing festive and formal attire.
-
-7. Name: "Emerald Treasure Circle Trim Lace"
-
-Overview: This enchanting lace trim features a series of circular patterns with delicate filigree work in gold, set against a vibrant emerald green ribbon. The combination of gold and green exudes a sense of luxury and richness, making it ideal for festive and special occasion garments. It adds a touch of sophistication to any project, whether used as trim on clothing, accessories, or for decorative home decor enhancements.
-
-
-8.Name: "Gilded Petals Trim Lace"
-
-Overview: This lace trim is elegantly designed with a row of golden petal-like motifs attached to a sheer off-white ribbon, creating a luxurious and graceful aesthetic. Its shimmering gold elements catch the light beautifully, making it perfect for embellishing formal attire, bridal wear, or adding a festive touch to holiday decorations. The delicate balance between the sheer ribbon and metallic accents provides a versatile and sophisticated option for various crafting and sewing projects.
-
-
-9.Name: "Art Deco Inspired Couture Appliqué"
-
-Overview: This unique appliqué combines vintage Art Deco elegance with modern flair, featuring creamy beige lace intricately patterned with geometric shapes and embellished with black and silver studs. The detailed craftsmanship and contrasting textures make this piece ideal for adding a striking focal point to designer garments or custom accessories. Its classic yet contemporary design allows it to blend seamlessly into both formal and avant-garde fashion pieces.
-
-10. Name: "Verdant Bloom Velvet Lace"
-
-Overview: This captivating lace trim showcases lush, velvet-textured green flowers, each intricately detailed to display vibrant and lifelike petals. The rich emerald hue and plush texture make this lace ideal for adding depth and a touch of nature-inspired beauty to any crafting or fashion project. It's perfect for enhancing festive garments, creating decorative home accents, or as a bold embellishment on accessories.
-
-11.Name: "Midnight Floral Noir Lace"
-
-Overview: This dramatic lace trim features bold floral designs crafted in a deep black hue, exuding an air of mystery and sophistication. The intricate petal and leaf patterns are delicately raised, providing a tactile texture that enhances the visual depth. Ideal for evening wear, this lace adds a luxurious and enigmatic touch to gowns, skirts, or accessories, perfect for creating a striking statement piece.
-
-12. 
-Name: "Fuchsia Fantasy Floral Lace"
-
-Overview: This striking lace trim is a vibrant fuchsia, adorned with elaborate floral and scroll designs that exude a luxurious and romantic feel. The intricate detailing and bold color make it perfect for fashion applications that aim to make a statement, such as on evening gowns, bridal wear, or as a bold accent on accessories. This lace is also ideal for crafting and decorating projects where a touch of vivid color and ornate texture is desired.
-
-13.Name: "Crimson Sparkle Sequin Lace"
-
-Overview: This eye-catching lace trim features a vibrant crimson ribbon adorned with a band of sparkling red sequins. The sequins add a glittering texture, making this lace perfect for party wear, holiday decorations, or any project that needs a dash of glamour. Its narrow profile allows for versatile applications, from accentuating costumes to enhancing festive table runners or decorative crafts.
-
-14. 
-Name: "Golden Gardenia Lace Trim"
-
-Overview: This stunning lace trim features large, detailed gardenia flowers meticulously embroidered in a radiant golden thread. The vibrant and intricate floral design lends a touch of classic elegance and luxury, perfect for enhancing evening wear, bridal dresses, or sophisticated home décor. The golden hue adds a regal and festive feel, making it ideal for special occasions and celebratory crafts.
-
-15. Name: "Silver Blossom Elegance Lace"
-
-Overview: This exquisite lace features large, beautifully detailed blossoms embroidered in a shimmering silver thread. The texture and slight sheen of the lace add a touch of sophistication and glamour, ideal for evening wear, bridal accents, or high-fashion accessories. Its neutral silver color offers versatility, making it perfect for complementing any color scheme while adding a luxurious finish.
-
-16.
-Name: "Silver Lotus Grandeur Lace"
-
-Overview: This exquisite lace trim is adorned with large, elegant lotus flower motifs, intricately embroidered in a shimmering silver thread. The sophisticated floral pattern and metallic sheen offer a luxurious and timeless appeal, perfect for bridal wear, formal attire, or high-end home décor. Its detailed craftsmanship ensures a stunning visual impact, making it a popular choice for adding a touch of elegance and glamour to any fabric or crafting project.
-
-17.Name: "Aqua Oasis Embroidered Lace"
-
-Overview: This delightful lace trim showcases a serene aqua color, featuring a sequence of circular motifs and leafy vines embroidered intricately along its length. The harmonious blend of soft pastel hues and detailed embroidery makes this lace perfect for spring and summer apparel, lending a fresh and elegant touch to dresses, skirts, or decorative home textiles. The delicate pattern and cool tones provide a calming and sophisticated visual appeal.
-
-18.
-Name: "Mint Medley Embroidered Lace"
-
-Overview: This charming lace trim is embroidered with a sequence of floral and leaf motifs in a refreshing mint green shade, set against a pale contrasting background. The intricate circular patterns and delicate leaf details create a serene and natural aesthetic. This lace is perfect for enhancing spring and summer fashion ensembles, adding a gentle touch of color to bridal accessories, or lending a fresh look to home décor items.
-
-19.
-Name: "Antique Ivory Filigree Lace"
-
-Overview: This ornate lace features a complex filigree pattern, beautifully crafted in an antique ivory hue that evokes a sense of timeless elegance. The delicate and detailed design includes symmetrical floral and heart motifs, making it an ideal choice for classic bridal gowns, sophisticated table linens, or luxurious window treatments. Its intricate craftsmanship and vintage charm add a regal touch to any fabric or decor project.
-
-20.Name: "Classic Noir Floral Lace"
-
-Overview: This lace trim is the epitome of timeless elegance with its classic black design featuring delicate floral patterns interwoven with intricate leaves. Its sheer and detailed embroidery creates a sophisticated texture that’s perfect for evening wear, adding a romantic touch to lingerie, or as a luxurious accent on accessories and home décor. The versatile trim offers both traditional charm and contemporary appeal, making it a staple for any design that seeks to incorporate an element of refined grace.
-
-21.
-Name: "Silver Gleam Floral Lace"
-
-Overview: This elegant lace is a symphony of silver, featuring full blooms with layered petals, creating a lush, dimensional look. The floral design is enhanced with a subtle sheen that catches the light, adding a sophisticated sparkle to the lace. Perfect for adorning evening wear or bridal attire, this lace can bring a luxurious feel to any garment or textile project. Its detailed embroidery showcases high-quality craftsmanship, ideal for those seeking a touch of refined beauty.
-
-22.
-Name: "Gilded Blossom Sheer Lace"
-
-Overview: This lace captivates with its sheer elegance and delicate craftsmanship, showcasing large floral patterns outlined with a subtle golden thread. The interplay of the translucent fabric and gilded embroidery imparts a touch of opulence, making it a perfect choice for wedding dresses, couture creations, or sophisticated home accents. The lace’s versatility allows it to add a light, airy, and yet luxurious touch to any design.
-
-23.
-For the first lace (Image 23), we can name it "Silver Swirl Elegance Lace". The overview for this lace is as follows: This delicate trim features swirling patterns that create a harmonious, flowing design. The silver threads offer a subtle shimmer, making it an elegant choice for bridal wear, evening gowns, or for adding a touch of sophistication to accessories and home décor.
-
-24.
-For the second lace (Image 24), we might call it "Autumn Blaze Embroidered Lace". The overview for this lace is: With vibrant orange and gold floral accents, this lace trim brings to mind the rich colors of autumn. It’s perfect for seasonal projects, festive occasions, or whenever a garment needs a warm, radiant touch.
-
-25.
-For the third lace (Image 25), let’s name it "Emerald Garden Embroidered Lace". The overview for this lace is: This lace features emerald green floral motifs with golden contouring, reminiscent of a blooming garden. It adds a lush, vibrant look to any piece, suitable for both apparel and decorative uses.
-
-26.
-For the fourth lace (Image 26), we can name it "Regal Sapphire Embroidered Lace". The overview for this lace is: The combination of deep blue and gold in this lace brings a regal and luxurious feel. It’s ideal for crafting sophisticated attire or adding an element of royal elegance to home textiles.
-
-27.
-For the fifth lace (Image 27), let's name it "Vivid Crimson Embroidered Lace". The overview for this lace is: Crimson flowers outlined in gold thread make this lace stand out with a bold and vivacious character. It's perfect for creating statement pieces or as an eye-catching detail for decorative elements.
-
-28.
-For the sixth lace (Image 28), let's call it "Majestic Emerald Embroidered Lace". The overview for this lace is: The regal emerald green accents, set against intricate golden embroidery, create a lace of majesty and allure, perfect for occasions that require a touch of grandeur.
-
-29.
-For the seventh lace (Image 29), it could be named "Fuchsia Fantasy Embroidered Lace". The overview for this lace is: This lace features rich fuchsia floral embroidery with gold outlines, offering a playful yet sophisticated look for fashion-forward projects or vibrant home decor.
-
-30.
-For the eighth lace (Image 30), let's call it "Midnight Gold Embroidered Lace". The overview for this lace is: With its dark backdrop and shimmering gold details, this lace presents an elegant contrast that's ideal for creating depth and drama in any application, from couture to home accents.
-
-
+Golden Mocha Floret Lace: This exquisite lace trim features a symmetrical pattern of floral motifs in a rich golden mocha tone, intricately detailed with fine thread work that gives a textured appearance. The design combines elegance and traditional craftsmanship, making it perfect for enhancing formal wear, decorative home textiles, and bespoke fashion accessories.
+Bronze Spiral Twine Lace: This lace features a unique and eye-catching spiral twine design in a shimmering bronze color, offering a blend of classic and contemporary aesthetics. Its slender, continuous pattern makes it versatile for use in various sewing projects, from creating elegant edging on garments to adding a refined touch to home décor items. The metallic finish enhances its appeal, making it a popular choice for festive and special occasion wear.
+Vibrant Magenta Blossom Lace: This vibrant magenta lace features bold floral motifs that are strikingly defined with intricate threadwork. Its lush, saturated color and dimensional texture make it perfect for adding a pop of color and feminine flair to apparel and accessories. Ideal for creating statement trim on dresses, skirts, or even home décor, this lace exudes a playful yet elegant charm.
+Emerald and Gold Floral Ribbon Lace: This striking lace features a vibrant emerald green ribbon adorned with golden floral appliqués that shimmer under the light. The delicate metallic flowers add a luxurious touch, making this lace ideal for festive occasions and holiday crafts. Its slim profile and bright colors are perfect for adding an elegant finish to fashion accessories, gift wrappings, or decorative accents in interior design.
+Crimson Elegance Circle Trim Lace: This refined lace trim showcases a row of ornate circular motifs outlined in gold thread on a vibrant crimson background. Each circle is delicately detailed with intricate patterns, adding a touch of luxury and sophistication. This lace is perfect for enhancing evening wear, creating festive decorations, or adding an elegant accent to accessories and home décor projects.
+Royal Purple Gilded Trim Lace: This elegant lace features a rich royal purple background adorned with a continuous line of golden gilded circular motifs. The intricate detailing and vivid color contrast make it ideal for adding a regal touch to clothing, accessories, and craft projects. Its slender and uniform pattern provides a sophisticated and luxurious appeal, perfect for enhancing festive and formal attire.
+Emerald Treasure Circle Trim Lace: This enchanting lace trim features a series of circular patterns with delicate filigree work in gold, set against a vibrant emerald green ribbon. The combination of gold and green exudes a sense of luxury and richness, making it ideal for festive and special occasion garments. It adds a touch of sophistication to any project, whether used as trim on clothing, accessories, or for decorative home decor enhancements.
+Gilded Petals Trim Lace: This lace trim is elegantly designed with a row of golden petal-like motifs attached to a sheer off-white ribbon, creating a luxurious and graceful aesthetic. Its shimmering gold elements catch the light beautifully, making it perfect for embellishing formal attire, bridal wear, or adding a festive touch to holiday decorations. The delicate balance between the sheer ribbon and metallic accents provides a versatile and sophisticated option for various crafting and sewing projects.
+Art Deco Inspired Couture Appliqué: This unique appliqué combines vintage Art Deco elegance with modern flair, featuring creamy beige lace intricately patterned with geometric shapes and embellished with black and silver studs. The detailed craftsmanship and contrasting textures make this piece ideal for adding a striking focal point to designer garments or custom accessories. Its classic yet contemporary design allows it to blend seamlessly into both formal and avant-garde fashion pieces.
+Verdant Bloom Velvet Lace: This captivating lace trim showcases lush, velvet-textured green flowers, each intricately detailed to display vibrant and lifelike petals. The rich emerald hue and plush texture make this lace ideal for adding depth and a touch of nature-inspired beauty to any crafting or fashion project. It's perfect for enhancing festive garments, creating decorative home accents, or as a bold embellishment on accessories.
+Midnight Floral Noir Lace: This dramatic lace trim features bold floral designs crafted in a deep black hue, exuding an air of mystery and sophistication. The intricate petal and leaf patterns are delicately raised, providing a tactile texture that enhances the visual depth. Ideal for evening wear, this lace adds a luxurious and enigmatic touch to gowns, skirts, or accessories, perfect for creating a striking statement piece. 
+Fuchsia Fantasy Floral Lace: This striking lace trim is a vibrant fuchsia, adorned with elaborate floral and scroll designs that exude a luxurious and romantic feel. The intricate detailing and bold color make it perfect for fashion applications that aim to make a statement, such as on evening gowns, bridal wear, or as a bold accent on accessories. This lace is also ideal for crafting and decorating projects where a touch of vivid color and ornate texture is desired.
+Crimson Sparkle Sequin Lace: This eye-catching lace trim features a vibrant crimson ribbon adorned with a band of sparkling red sequins. The sequins add a glittering texture, making this lace perfect for party wear, holiday decorations, or any project that needs a dash of glamour. Its narrow profile allows for versatile applications, from accentuating costumes to enhancing festive table runners or decorative crafts.
+Golden Gardenia Lace Trim: This stunning lace trim features large, detailed gardenia flowers meticulously embroidered in a radiant golden thread. The vibrant and intricate floral design lends a touch of classic elegance and luxury, perfect for enhancing evening wear, bridal dresses, or sophisticated home décor. The golden hue adds a regal and festive feel, making it ideal for special occasions and celebratory crafts.
+Silver Blossom Elegance Lace: This exquisite lace features large, beautifully detailed blossoms embroidered in a shimmering silver thread. The texture and slight sheen of the lace add a touch of sophistication and glamour, ideal for evening wear, bridal accents, or high-fashion accessories. Its neutral silver color offers versatility, making it perfect for complementing any color scheme while adding a luxurious finish.
+Silver Lotus Grandeur Lace: This exquisite lace trim is adorned with large, elegant lotus flower motifs, intricately embroidered in a shimmering silver thread. The sophisticated floral pattern and metallic sheen offer a luxurious and timeless appeal, perfect for bridal wear, formal attire, or high-end home décor. Its detailed craftsmanship ensures a stunning visual impact, making it a popular choice for adding a touch of elegance and glamour to any fabric or crafting project.
+Aqua Oasis Embroidered Lace: This delightful lace trim showcases a serene aqua color, featuring a sequence of circular motifs and leafy vines embroidered intricately along its length. The harmonious blend of soft pastel hues and detailed embroidery makes this lace perfect for spring and summer apparel, lending a fresh and elegant touch to dresses, skirts, or decorative home textiles. The delicate pattern and cool tones provide a calming and sophisticated visual appeal.
+Mint Medley Embroidered Lace: This charming lace trim is embroidered with a sequence of floral and leaf motifs in a refreshing mint green shade, set against a pale contrasting background. The intricate circular patterns and delicate leaf details create a serene and natural aesthetic. This lace is perfect for enhancing spring and summer fashion ensembles, adding a gentle touch of color to bridal accessories, or lending a fresh look to home décor items.
+Antique Ivory Filigree Lace: This ornate lace features a complex filigree pattern, beautifully crafted in an antique ivory hue that evokes a sense of timeless elegance. The delicate and detailed design includes symmetrical floral and heart motifs, making it an ideal choice for classic bridal gowns, sophisticated table linens, or luxurious window treatments. Its intricate craftsmanship and vintage charm add a regal touch to any fabric or decor project.
+Classic Noir Floral Lace: This lace trim is the epitome of timeless elegance with its classic black design featuring delicate floral patterns interwoven with intricate leaves. Its sheer and detailed embroidery creates a sophisticated texture that’s perfect for evening wear, adding a romantic touch to lingerie, or as a luxurious accent on accessories and home décor. The versatile trim offers both traditional charm and contemporary appeal, making it a staple for any design that seeks to incorporate an element of refined grace.
+Silver Gleam Floral Lace: This elegant lace is a symphony of silver, featuring full blooms with layered petals, creating a lush, dimensional look. The floral design is enhanced with a subtle sheen that catches the light, adding a sophisticated sparkle to the lace. Perfect for adorning evening wear or bridal attire, this lace can bring a luxurious feel to any garment or textile project. Its detailed embroidery showcases high-quality craftsmanship, ideal for those seeking a touch of refined beauty.
+Gilded Blossom Sheer Lace: This lace captivates with its sheer elegance and delicate craftsmanship, showcasing large floral patterns outlined with a subtle golden thread. The interplay of the translucent fabric and gilded embroidery imparts a touch of opulence, making it a perfect choice for wedding dresses, couture creations, or sophisticated home accents. The lace’s versatility allows it to add a light, airy, and yet luxurious touch to any design.
+Silver Swirl Elegance Lace: This delicate trim features swirling patterns that create a harmonious, flowing design. The silver threads offer a subtle shimmer, making it an elegant choice for bridal wear, evening gowns, or for adding a touch of sophistication to accessories and home décor.
+Autumn Blaze Embroidered Lace: With vibrant orange and gold floral accents, this lace trim brings to mind the rich colors of autumn. It’s perfect for seasonal projects, festive occasions, or whenever a garment needs a warm, radiant touch.
+Emerald Garden Embroidered Lace: This lace features emerald green floral motifs with golden contouring, reminiscent of a blooming garden. It adds a lush, vibrant look to any piece, suitable for both apparel and decorative uses.
+Regal Sapphire Embroidered Lace: The combination of deep blue and gold in this lace brings a regal and luxurious feel. It’s ideal for crafting sophisticated attire or adding an element of royal elegance to home textiles.
+Vivid Crimson Embroidered Lace: Crimson flowers outlined in gold thread make this lace stand out with a bold and vivacious character. It's perfect for creating statement pieces or as an eye-catching detail for decorative elements.
+Majestic Emerald Embroidered Lace: The regal emerald green accents, set against intricate golden embroidery, create a lace of majesty and allure, perfect for occasions that require a touch of grandeur.
+Fuchsia Fantasy Embroidered Lace: This lace features rich fuchsia floral embroidery with gold outlines, offering a playful yet sophisticated look for fashion-forward projects or vibrant home decor.
+Midnight Gold Embroidered Lace: With its dark backdrop and shimmering gold details, this lace presents an elegant contrast that's ideal for creating depth and drama in any application, from couture to home accents.

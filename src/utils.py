@@ -1,52 +1,56 @@
-# utils.py
 import os
 from PIL import Image
-import json
 
 def load_lace_descriptions(description_path):
-    """ Load lace descriptions from a text or JSON file. """
     lace_descriptions = {}
-    if description_path.endswith('.txt'):
-        with open(description_path, 'r') as file:
+    try:
+        with open(description_path, 'r', encoding='utf-8') as file:
             for line in file:
                 parts = line.strip().split(':', 1)
                 if len(parts) == 2:
-                    lace_descriptions[parts[0].strip()] = parts[1].strip()
-    elif description_path.endswith('.json'):
-        with open(description_path, 'r') as file:
-            lace_descriptions = json.load(file)
-    else:
-        raise ValueError("Unsupported file format for descriptions.")
+                    key = parts[0].strip().lower()  # Normalize key
+                    value = parts[1].strip()
+                    lace_descriptions[key] = value
+    except FileNotFoundError as e:
+        print(f"Description file not found: {description_path} - {e}")
+    except Exception as e:
+        print(f"Failed to load descriptions from {description_path}: {e}")
     return lace_descriptions
 
 def load_lace_data(directory, description_path):
-    """ Load lace images and descriptions into a dictionary. """
-    descriptions = load_lace_descriptions(description_path)
     laces = {}
+    descriptions = load_lace_descriptions(description_path)
+    if not descriptions:
+        print("No descriptions were loaded, check the description file format and content.")
+
     supported_image_formats = ('.jpg', '.jpeg', '.png')
-    for filename in os.listdir(directory):
-        if filename.lower().endswith(supported_image_formats):
-            file_path = os.path.join(directory, filename)
-            lace_name = filename.split('.')[0]
-            laces[lace_name] = {
-                'image_path': file_path,
-                'name': descriptions.get(lace_name, 'No description available'),
-                'description': descriptions.get(lace_name)
-            }
+    try:
+        for filename in os.listdir(directory):
+            base_name, ext = os.path.splitext(filename)
+            if ext.lower() in supported_image_formats:
+                normalized_name = base_name.lower()  # Normalize filename
+                file_path = os.path.join(directory, filename)
+                description = descriptions.get(normalized_name, 'No description available')
+                laces[normalized_name] = {
+                    'image_path': file_path,
+                    'name': base_name,
+                    'description': description
+                }
+    except FileNotFoundError as e:
+        print(f"Directory not found: {directory} - {e}")
+    except Exception as e:
+        print(f"Failed to load images from {directory}: {e}")
     return laces
 
+
 def validate_image_path(image_path):
-    """ Check if the image file exists and is accessible. """
-    if not os.path.exists(image_path):
+    if not os.path.exists(image_path) or not os.path.isfile(image_path):
         raise FileNotFoundError(f"Image file {image_path} not found.")
-    if not os.path.isfile(image_path):
-        raise ValueError(f"Path {image_path} is not a file.")
 
 def get_image(image_path):
-    """ Open an image from a path and handle errors. """
     validate_image_path(image_path)
     try:
         with Image.open(image_path) as img:
             return img
-    except IOError:
-        raise IOError("Unable to open the image. The file may be corrupted or unsupported.")
+    except IOError as e:
+        raise IOError(f"Unable to open the image. The file may be corrupted or unsupported: {e}")

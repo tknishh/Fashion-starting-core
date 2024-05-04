@@ -1,4 +1,3 @@
-# model.py
 import numpy as np
 import openai
 from scipy.spatial.distance import cosine
@@ -10,49 +9,47 @@ class LaceRecommender:
         self.embeddings = self._generate_embeddings()
 
     def _generate_embeddings(self):
-        """ Generate embeddings for all lace descriptions using OpenAI's GPT-4. """
         embeddings = {}
         for lace_name, lace_info in self.laces.items():
-            description = lace_info['description']
-            if description:
+            description = lace_info.get('description', None)
+            if description is not None:
                 embeddings[lace_name] = self.api.get_embedding(description)
+            else:
+                embeddings[lace_name] = np.zeros(768)  # default to zero embedding if no description
         return embeddings
 
     def recommend_lace(self, user_query):
-        """ Recommend a lace based on textual similarity to the user's query. """
-        query_embedding = self.api.get_embedding(user_query)
-        best_lace = None
-        min_distance = float('inf')
+        if user_query:
+            query_embedding = self.api.get_embedding(user_query)
+            best_lace = None
+            min_distance = float('inf')
 
-        for lace_name, desc_embedding in self.embeddings.items():
-            distance = cosine(query_embedding, desc_embedding)
-            if distance < min_distance:
-                min_distance = distance
-                best_lace = lace_name
+            for lace_name, desc_embedding in self.embeddings.items():
+                if desc_embedding is not None:
+                    distance = cosine(query_embedding, desc_embedding)
+                    if distance < min_distance:
+                        min_distance = distance
+                        best_lace = lace_name
 
-        return self.laces[best_lace]
+            if best_lace:
+                return self.laces.get(best_lace, None)
+        return None
 
 class OpenAI_API:
-    """ Class for handling interactions with OpenAI API. """
     def __init__(self, api_key):
         self.api_key = api_key
         openai.api_key = self.api_key
 
     def get_embedding(self, text):
-        """ Fetch an embedding for the given text using OpenAI's GPT-4 model. """
         try:
-            response = openai.Embedding.create(
-                input=text,
-                model="text-embedding-ada-002",  # You might choose a different model based on your subscription
-            )
-            # Extract the embedding vector from the response
-            embedding_vector = response['data']['embedding']
-            return np.array(embedding_vector)
-        except Exception as e:
-            print(f"An error occurred: {e}")
-            return np.zeros(768)  # Return a zero vector in case of an error
+            response = openai.Embedding.create(input=text, model="text-embedding-ada-002")
+            if 'data' in response and response['data'] and 'embedding' in response['data'][0]:
+                return np.array(response['data'][0]['embedding'])
+        except KeyError as e:
+            print(f"KeyError accessing response data: {e}")
+        return np.zeros(768)  # Return zero vector in case of error or missing data
 
 def get_recommendation(user_input, laces_data, api_key):
-    """ Function to get lace recommendation for a given user input. """
     recommender = LaceRecommender(laces_data, api_key)
-    return recommender.recommend_lace(user_input)
+    recommended_lace = recommender.recommend_lace(user_input)
+    return [recommended_lace] if recommended_lace else []
