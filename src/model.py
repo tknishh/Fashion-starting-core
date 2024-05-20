@@ -1,6 +1,7 @@
 import numpy as np
 import openai
 from scipy.spatial.distance import cosine
+from utils import extract_colors
 
 class LaceRecommender:
     def __init__(self, laces_data, openai_api_key):
@@ -53,3 +54,29 @@ def get_recommendation(user_input, laces_data, api_key):
     recommender = LaceRecommender(laces_data, api_key)
     recommended_lace = recommender.recommend_lace(user_input)
     return [recommended_lace] if recommended_lace else []
+
+def get_colors(image, api_key):
+    """
+    Get the best matching colors for an uploaded image.
+
+    Parameters:
+    image (BytesIO): The uploaded image.
+    api_key (str): The API key for the OpenAI GPT model.
+
+    Returns:
+    list: A list of colors with their names and color codes.
+    """
+    image_path = 'uploaded_image.jpg'
+    with open(image_path, 'wb') as f:
+        f.write(image.getbuffer())
+    
+    color_codes = extract_colors(image_path)
+
+    colors = []
+    for code in color_codes:
+        colors.append({
+            "name": "Color Name",  # You can replace this with a function to get actual color names if needed
+            "code": code
+        })
+    
+    return colors
