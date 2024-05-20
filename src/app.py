@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-from utils import load_lace_data, extract_colors
+from utils import load_lace_data
 from model import get_recommendation, get_colors
 import os
 import dotenv
