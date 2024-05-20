@@ -1,4 +1,6 @@
 import os
+import cv2
+from sklearn.cluster import KMeans
 from PIL import Image
 
 def load_lace_descriptions(description_path):
@@ -46,6 +48,30 @@ def load_lace_data(directory, description_path):
 def validate_image_path(image_path):
     if not os.path.exists(image_path) or not os.path.isfile(image_path):
         raise FileNotFoundError(f"Image file {image_path} not found.")
+    
+def extract_colors(image_path, num_colors=3):
+    """
+    Extract dominant colors from an image.
+    
+    Parameters:
+    image_path (str): The path to the image file.
+    num_colors (int): The number of colors to extract.
+    
+    Returns:
+    list: A list of color codes.
+    """
+    image = cv2.imread(image_path)
+    image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+    image = image.reshape((image.shape[0] * image.shape[1], 3))
+    
+    clt = KMeans(n_clusters=num_colors)
+    clt.fit(image)
+    
+    colors = clt.cluster_centers_
+    colors = colors.astype(int)
+    
+    color_codes = ['#%02x%02x%02x' % tuple(color) for color in colors]
+    return color_codes
 
 def get_image(image_path):
     validate_image_path(image_path)
