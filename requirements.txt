@@ -2,3 +2,9 @@ openai
 opencv-python-headless
 numpy
 scipy
+fastapi
+uvicorn
+pydantic
+python-dotenv
+Pillow
+scikit-learn
